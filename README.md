@@ -19,10 +19,10 @@ This script connects to the Bybit WebSocket API and displays a live Level 50 ord
 
 ```bash
 pip install pybit pandas
-
+```
 
 ## Run the script
 
 ```bash
-python orderbook_viewer.py
-
+python orderbook_ws.py
+```
