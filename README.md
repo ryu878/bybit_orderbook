@@ -21,6 +21,9 @@ This script connects to the Bybit WebSocket API and displays a live Level 50 ord
 - Total USD value per order level
 - Nicely formatted terminal output
 
+  ![image](https://github.com/user-attachments/assets/e6de5786-55e1-4776-933a-21c2d6f74c00)
+
+
 ## Requirements
 
 - Python 3.7+
